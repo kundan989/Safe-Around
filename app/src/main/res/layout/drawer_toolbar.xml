@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:id="@+id/toolbar"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark">
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_gravity="end"
+            android:padding="10dp"
+            android:background="@color/fui_transparent"
+            android:id="@+id/color"
+            android:onClick="startcolor"
+            android:src="@drawable/ic_invert_colors_black_24dp"></ImageView>
+    </androidx.appcompat.widget.Toolbar>
+
+</LinearLayout>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ColorZones">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#161625"
+        android:fontFamily="sans-serif-medium"
+        android:padding="10dp"
+        android:text="Across India"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"></TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="4"
+        android:background="#161625"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:fontFamily="sans-serif-medium"
+                android:gravity="center"
+                android:text="Total Districts"
+                android:textAlignment="center"
+                android:autoSizeMinTextSize="7dp"
+                android:textColor="#007AFE"
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:id="@+id/totaldistrictsid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:gravity="center"
+                android:text="733"
+                android:textAlignment="center"
+                android:textColor="#007AFE"
+                android:textSize="25dp"
+                android:textStyle="bold"></TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:fontFamily="sans-serif-medium"
+                android:gravity="center"
+                android:text="Red Zone"
+                android:textAlignment="center"
+                android:textColor="#FE073A"
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:id="@+id/redzoneid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:gravity="center"
+                android:text="130"
+                android:textAlignment="center"
+                android:textColor="#FE073A"
+                android:textSize="25dp"
+                android:textStyle="bold"></TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:fontFamily="sans-serif-medium"
+                android:gravity="center"
+                android:text="Orange Zone"
+                android:textAlignment="center"
+                android:textColor="#FF8C00"
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:id="@+id/orangezoneid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:gravity="center"
+                android:text="284"
+                android:textAlignment="center"
+                android:textColor="#FF8C00"
+                android:textSize="25dp"
+                android:textStyle="bold"></TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:fontFamily="sans-serif-medium"
+                android:gravity="center"
+                android:text="Green Zone"
+                android:textAlignment="center"
+                android:textColor="#28A645"
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:id="@+id/greenzoneid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:gravity="center"
+                android:text="319"
+                android:textAlignment="center"
+                android:textColor="#28A645"
+                android:textSize="25dp"
+                android:textStyle="bold"></TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:fontFamily="sans-serif-medium"
+            android:paddingVertical="5dp"
+            android:text="All States/UT Stats"
+            android:textColor="#000000"
+            android:textStyle="bold"></TextView>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="10dp"
+                    android:orientation="horizontal"
+                    android:paddingVertical="5dp">
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="5"
+                        android:text="Locations"
+                        android:textColor="#000000"
+                        android:textStyle="bold"></TextView>
+
+                    <TextView
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="3"
+                        android:gravity="center"
+                        android:text="Recovery Rate"
+                        android:textAlignment="center"
+                        android:textColor="#388E3C"
+                        android:textStyle="bold"></TextView>
+
+                    <TextView
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="3"
+                        android:gravity="center"
+                        android:text="Deceased Rate"
+                        android:textAlignment="center"
+                        android:textColor="#FF1744"
+                        android:textStyle="bold"></TextView>
+                </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ExpandableListView
+                android:id="@+id/mycolorListView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"></ExpandableListView>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

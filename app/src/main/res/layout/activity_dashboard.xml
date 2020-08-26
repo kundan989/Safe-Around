@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Dashboard">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#161625"
+        android:text="Across India"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-medium"
+        android:padding="10dp"
+        android:textColor="#FFFFFF"></TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="4"
+        android:background="#161625"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:fontFamily="sans-serif-medium"
+                android:gravity="center"
+                android:text="Confirmed"
+                android:autoSizeMinTextSize="10dp"
+                android:textSize="18dp"
+                android:textAlignment="center"
+                android:textColor="#FF1744"                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:id="@+id/confirm_no"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:gravity="center"
+                android:text=""
+                android:textAlignment="center"
+                android:autoSizeMinTextSize="10dp"
+                android:textColor="#FE073A"                android:textSize="25dp"
+                android:textStyle="bold"></TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:fontFamily="sans-serif-medium"
+                android:gravity="center"
+                android:text="Active"
+                android:textSize="18dp"
+                android:textAlignment="center"
+                android:autoSizeMinTextSize="10dp"
+                android:textColor="#007AFE"
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:id="@+id/active_no"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:gravity="center"
+                android:text=""
+                android:autoSizeMinTextSize="10dp"
+                android:textAlignment="center"
+                android:textColor="#007AFE"
+                android:textSize="25dp"
+                android:textStyle="bold"></TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:fontFamily="sans-serif-medium"
+                android:gravity="center"
+                android:textSize="18dp"
+                android:autoSizeMinTextSize="10dp"
+                android:text="Recovered"
+                android:textAlignment="center"
+                android:textColor="#28A645"
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:id="@+id/recovered_no"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:gravity="center"
+                android:text=""
+                android:textAlignment="center"
+                android:autoSizeMinTextSize="10dp"
+                android:textColor="#28A645"
+                android:textSize="25dp"
+                android:textStyle="bold"></TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:fontFamily="sans-serif-medium"
+                android:gravity="center"
+                android:text="Deceased"
+                android:textSize="18dp"
+                android:autoSizeMinTextSize="10dp"
+                android:textAlignment="center"
+                android:textColor="#6C747C"
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:id="@+id/deceased_no"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:gravity="center"
+                android:text=""
+                android:textAlignment="center"
+                android:autoSizeMinTextSize="10dp"
+                android:textColor="#6C747C"
+                android:textSize="25dp"
+                android:textStyle="bold"></TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:fontFamily="sans-serif-medium"
+            android:paddingVertical="5dp"
+            android:text="All States/UT Stats"
+            android:textColor="#000000"
+            android:textStyle="bold"></TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:orientation="horizontal"
+            android:paddingVertical="5dp">
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="5"
+                android:text="Locations"
+                android:textColor="#000000"
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="3"
+                android:gravity="center"
+                android:text="Total Cases"
+                android:textAlignment="center"
+                android:textColor="#FF1744"
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="3"
+                android:gravity="center"
+                android:text="Recovered"
+                android:textAlignment="center"
+                android:textColor="#388E3C"
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="3"
+                android:gravity="center"
+                android:text="Deaths"
+                android:textAlignment="center"
+                android:textColor="#546E7A"
+                android:textStyle="bold"></TextView>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ExpandableListView
+                android:id="@+id/myListView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"></ExpandableListView>
+
+<!--            <LinearLayout-->
+<!--                android:id="@+id/resourceslayout"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:background="@drawable/blue_rectangle"-->
+<!--                android:layout_alignParentBottom="true"-->
+<!--                android:paddingHorizontal="10dp"-->
+<!--                android:paddingVertical="8dp"-->
+<!--                android:layout_marginBottom="15dp"-->
+<!--                android:layout_marginLeft="10dp"-->
+<!--                android:orientation="horizontal">-->
+
+<!--                <ImageView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:src="@drawable/ic_bookmark_border_black_24dp"></ImageView>-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Resources &amp; Essentials"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:textStyle="bold"-->
+<!--                    android:textColor="#FFFFFF"></TextView>-->
+<!--            </LinearLayout>-->
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

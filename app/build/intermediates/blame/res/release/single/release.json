@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_circlelogin.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xxxhdpi\\circlelogin.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_screen5.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\screen5.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_screen1.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-ldpi\\screen1.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_bookmark_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_bookmark_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_circlelogin.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-v24\\circlelogin.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_screen3.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xxhdpi\\screen3.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_invert_colors_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_invert_colors_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_volunteer_foreground.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\volunteer_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_row.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_rectangle_without_curve.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\rectangle_without_curve.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_screen5.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-hdpi\\screen5.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_screen2.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-mdpi\\screen2.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_screen4.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xhdpi\\screen4.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_covid.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-mdpi\\covid.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_login.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_volunteer_round.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xxxhdpi\\volunteer_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_circlelogin.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-hdpi\\circlelogin.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_rectangle.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_screen4.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\screen4.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_help_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_help_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_screen2.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xxhdpi\\screen2.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_volunteer.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-anydpi-v26\\volunteer.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_share_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_share_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_screen4.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-hdpi\\screen4.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_screen5.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xhdpi\\screen5.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_screen3.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-mdpi\\screen3.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_screen1.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xxxhdpi\\screen1.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_location_on_blue_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_location_on_blue_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_point.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\point.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_circlelogin.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-mdpi\\circlelogin.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_volunteerscontent.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\volunteerscontent.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_location_on_green_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_location_on_green_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_local_phone_trueblack_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_local_phone_trueblack_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_volunteer_round.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xhdpi\\volunteer_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_local_phone_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_local_phone_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_volunteer_round.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-hdpi\\volunteer_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_mail_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_mail_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_screentwo.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\screentwo.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_resource_child.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\resource_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_volunteer.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xxxhdpi\\volunteer.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_screen2.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-ldpi\\screen2.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_volunteer_round.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xxhdpi\\volunteer_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_district.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\district.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_volunteer.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xhdpi\\volunteer.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_screen3.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-hdpi\\screen3.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_color_lens_white_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_color_lens_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_drawer_header.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\anim_hyperspace_jump.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\anim\\hyperspace_jump.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_screen3.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xhdpi\\screen3.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_screen3.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\screen3.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_circlelogin.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-ldpi\\circlelogin.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_volunteer.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xxhdpi\\volunteer.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_screen3.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xxxhdpi\\screen3.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_screen2.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-hdpi\\screen2.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_color_zones.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\activity_color_zones.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_screen5.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-mdpi\\screen5.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_screen5.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-ldpi\\screen5.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_volunteer_round.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-anydpi-v26\\volunteer_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_orange_circle.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\orange_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_covid.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xxxhdpi\\covid.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_volunteer_round.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-mdpi\\volunteer_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_volunteer.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\activity_volunteer.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_content_maps.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\content_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_screen4.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xxxhdpi\\screen4.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_person_pin_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_person_pin_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_splash.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\background_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_legenddetail.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\legenddetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\menu_volunteermenu.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\menu\\volunteermenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_gradient_rectangle.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\gradient_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_screen1.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xhdpi\\screen1.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_circlelogin.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xxhdpi\\circlelogin.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_account_circle_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_account_circle_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_registervolunteer.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\activity_registervolunteer.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_volunteer.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-mdpi\\volunteer.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_person_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_covid.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-v24\\covid.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_circlelogin.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xhdpi\\circlelogin.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_screen5.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xxhdpi\\screen5.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_screen4.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-ldpi\\screen4.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_screen1.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-hdpi\\screen1.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_covid.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xhdpi\\covid.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_donut_small_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_donut_small_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_screen2.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xhdpi\\screen2.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_blue_rectangle.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\blue_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_resources.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\activity_resources.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_covid.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-ldpi\\covid.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_covid.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-hdpi\\covid.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_screen4.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-mdpi\\screen4.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\menu_menu.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_covid.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xxhdpi\\covid.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_bookmark_border_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_bookmark_border_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_volunteer.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-hdpi\\volunteer.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_screen5.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xxxhdpi\\screen5.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_screen1.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xxhdpi\\screen1.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_refresh_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_refresh_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_screen3.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-ldpi\\screen3.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_color_child.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\color_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\menu_help.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\menu\\help.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_screen1.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-mdpi\\screen1.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_circlelogin.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\circlelogin.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_color_lens_black_24dp.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable\\ic_color_lens_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_screen2.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xxxhdpi\\screen2.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_assess_info.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\activity_assess_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_screen4.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\drawable-xxhdpi\\screen4.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_drawer_toolbar.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\drawer_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_color_parent.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\color_parent.xml"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\build\\intermediates\\res\\merged\\release\\layout_resource_parent.xml.flat",
+        "source": "C:\\Users\\iemku\\AndroidStudioProjects\\Maps\\app\\src\\main\\res\\layout\\resource_parent.xml"
+    }
+]

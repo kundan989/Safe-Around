@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "45650866334",
+    "firebase_url": "https://maps-978fd.firebaseio.com",
+    "project_id": "maps-978fd",
+    "storage_bucket": "maps-978fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45650866334:android:95cc2b67f193d3527bcb8f",
+        "android_client_info": {
+          "package_name": "com.kundanapp.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45650866334-eqagcf0a6edanu4invjpnk6f0hm34t3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kundanapp.maps",
+            "certificate_hash": "506634ebdea78f883ed0eab05c4466bf2e11524d"
+          }
+        },
+        {
+          "client_id": "45650866334-9ootaksgvq4411t29ar7enaboisu7spl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kundanapp.maps",
+            "certificate_hash": "c1a0229793a629ae8f62b314442511d1cc650cd1"
+          }
+        },
+        {
+          "client_id": "45650866334-uhi3lqc6iel75meo9j9t0ljljbp3j6lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kundanapp.maps",
+            "certificate_hash": "ad51aa375d867fb1355a02065a4f6add0e71bbef"
+          }
+        },
+        {
+          "client_id": "45650866334-2lq3n4slubh1a4bn74blhrpailnjqvg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxkiJ2DZ5ZPQECBG4hg0RYxoHYnkyd71Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45650866334-2lq3n4slubh1a4bn74blhrpailnjqvg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
